@@ -93,11 +93,6 @@ percentages.addEventListener('click', (event) => {
 })
 
 
-// const powers = document.querySelector(".power")
-
-// const pangkat = (number) => {
-    
-// }
 
 
 const clearBtn = document.querySelector('.all-clear')
